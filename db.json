@@ -1,7 +1,7 @@
 {  
-  "productos"[
+  "productos":[
     [
-     "aceites"[
+     "aceites":[
         {
         "Producto" : "Romero",
         "Precios" : "24",
@@ -25,7 +25,7 @@
       ]
     ],
     [
-    "cosmetica"[
+    "cosmetica":[
       {
         "Producto" : "Desodorante natural de Limon",
         "Precios" : "24",
