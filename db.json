@@ -1,7 +1,7 @@
 {  
-    products:[   
+    "products":[   
   
-       "aceite":[
+       "aceite" :[
              {
                 "Producto" : "Romero",
                 "Precios" : "35",
@@ -20,30 +20,30 @@
               {
                 "Producto" : "Lavanda",
                 "Precios" : "39",
-                "Descripcion": "Esto es una descripcion 4",
+                "Descripcion" : "Esto es una descripcion 4",
               }     
           ],
           [
-           "cosmetica":[
+           "cosmetica" :[
                  {
                    "Producto" : "Desodorante natural de Limon",
-                   "Precios" : 25,
-                   "Descripcion": "Esto es una descripcion 5"
+                   "Precios" : "25",
+                   "Descripcion" : "Esto es una descripcion 5"
                  },
                  {
                    "Producto" : "Desodorante natural de Romero",
-                   "Precios" : 25,
-                   "Descripcion": "Esto es una descripcion 6"
+                   "Precios" : "25",
+                   "Descripcion" : "Esto es una descripcion 6"
                  },
-                   {
+                 {
                    "Producto" : "Desodorante natural de Naranja",
-                   "Precios" : 25,
-                   "Descripcion":"Esto es una descripcion 7"
+                   "Precios" : "25",
+                   "Descripcion" : "Esto es una descripcion 7"
                  },
                  {
                    "Producto" : "Crema corporal a base de Romero",
-                   "Precios" : 22,
-                   "Descripcion":"Esto es una descripcion 8"
+                   "Precios" : "22",
+                   "Descripcion" : "Esto es una descripcion 8"
                  }            
                ]   
            ] 
