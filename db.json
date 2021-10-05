@@ -1,6 +1,6 @@
 {  
-  "productos":{
-       "cosmetica":[
+  "productos":[
+       "cosmetica"=[
            {
               "Producto" : "Desodorante natural de Limon",
               "Precios" : "25",
@@ -22,7 +22,7 @@
               "Descripcion":"Esto es una descripcion 8",
             }            
            ] 
-       }
+       ]
  }
   
   
