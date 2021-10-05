@@ -1,3 +1,25 @@
 {
-  "name": "Oilkay"
+  events: 
+  [
+    {
+      "Producto" : "Romero",
+      "Precios" : "24",
+      "Descripcion":"Esto es una descripcion"
+    },
+    {
+      "Producto" : "Romero",
+      "Precios" : "24",
+      "Descripcion":"Esto es una descripcion"
+    }, 
+    {
+      "Producto" : "Romero",
+      "Precios" : "24",
+      "Descripcion":"Esto es una descripcion"
+    },
+    {
+      "Producto" : "Romero",
+      "Precios" : "24",
+      "Descripcion":"Esto es una descripcion"
+    }    
+  ]
 }
