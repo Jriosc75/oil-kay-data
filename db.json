@@ -20,29 +20,7 @@
         "Precios" : "39",
         "Descripcion" : "Esto es una descripcion",
       }     
-    ],
-  "cosmetica":[
-     {
-       "Producto" : "Desodorante natural de Limon",
-       "Precios" : "25",
-       "Descripcion" : "Esto es una descripcion"
-     },
-     {
-       "Producto" : "Desodorante natural de Romero",
-       "Precios" : "25",
-       "Descripcion" : "Esto es una descripcion"
-     },
-     {
-       "Producto" : "Desodorante natural de Naranja",
-       "Precios" : "25",
-       "Descripcion" : "Esto es una descripcion"
-     },
-     {
-       "Producto" : "Crema corporal a base de Romero",
-       "Precios" : "22",
-       "Descripcion" : "Esto es una descripcion"
-     }            
-   ]  
+    ]  
 }
   
   
