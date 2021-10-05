@@ -1,26 +1,8 @@
-{  
-  "aceite":[
-      {
-        "Producto" : "Romero",
-        "Precios" : "35",
-        "Descripcion": "Esto es una descripcion 1",
-      },
-      {
-        "Producto" : "Limon",
-        "Precios" : "34,
-        "Descripcion": "Esto es una descripcion",
-      },
-      {
-        "Producto" : "Menta",
-        "Precios" : "37",
-        "Descripcion": "Esto es una descripcion",
-      },
-      {
-        "Producto" : "Lavanda",
-        "Precios" : "39",
-        "Descripcion" : "Esto es una descripcion",
-      }     
-    ]  
+{    
+    "Producto" : "Romero",
+    "Precios" : "35",
+    "Descripcion": "Esto es una descripcion 1",
+
 }
   
   
