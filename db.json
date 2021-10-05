@@ -6,17 +6,17 @@
         "Descripcion":"Esto es una descripcion 1"
         },
         {
-        "Producto" : "Romero",
+        "Producto" : "Limon",
         "Precios" : "24",
         "Descripcion":"Esto es una descripcion 12"
         },
         {
-        "Producto" : "Romero",
+        "Producto" : "Menta",
         "Precios" : "24",
         "Descripcion":"Esto es una descripcion 2"
         },
         {
-        "Producto" : "Romero",
+        "Producto" : "Lavanda",
         "Precios" : "24",
         "Descripcion":"Esto es una descripcion 4"
         }      
