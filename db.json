@@ -4,34 +4,34 @@
          {
             "Producto" : "Romero",
             "Precios" : "35",
-            "Descripcion":"Esto es una descripcion 1"
+            "Descripcion": "Esto es una descripcion 1"
           },
           {
             "Producto" : "Limon",
             "Precios" : "34,
-            "Descripcion":"Esto es una descripcion 12"
+            "Descripcion": "Esto es una descripcion 12"
           },
           {
             "Producto" : "Menta",
             "Precios" : "37",
-            "Descripcion":"Esto es una descripcion 2"
+            "Descripcion": "Esto es una descripcion 2"
           },
           {
             "Producto" : "Lavanda",
             "Precios" : "39",
-            "Descripcion":"Esto es una descripcion 4"
+            "Descripcion": "Esto es una descripcion 4"
           }     
       ],
     "cosmetica":[
          {
             "Producto" : "Desodorante natural de Limon",
             "Precios" : "25",
-            "Descripcion":"Esto es una descripcion 5"
+            "Descripcion": "Esto es una descripcion 5"
           },
           {
             "Producto" : "Desodorante natural de Romero",
             "Precios" : "25",
-            "Descripcion":"Esto es una descripcion 6"
+            "Descripcion": "Esto es una descripcion 6"
           },
             {
             "Producto" : "Desodorante natural de Naranja",
