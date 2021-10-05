@@ -1,24 +1,54 @@
 {
-  "events": [
+  "Productos": [
     {
-      "Producto" : "Romero",
-      "Precios" : "24",
-      "Descripcion":"Esto es una descripcion"
+      "aceites":[
+        {
+          "Producto" : "Romero",
+          "Precios" : "24",
+          "Descripcion":"Esto es una descripcion 1"
+        },
+        {
+          "Producto" : "Romero",
+          "Precios" : "24",
+          "Descripcion":"Esto es una descripcion 12"
+        },
+          {
+          "Producto" : "Romero",
+          "Precios" : "24",
+          "Descripcion":"Esto es una descripcion 2"
+        },
+        {
+          "Producto" : "Romero",
+          "Precios" : "24",
+          "Descripcion":"Esto es una descripcion 4"
+        },        
+      ]
     },
     {
-      "Producto" : "Romero",
-      "Precios" : "24",
-      "Descripcion":"Esto es una descripcion"
-    }, 
-    {
-      "Producto" : "Romero",
-      "Precios" : "24",
-      "Descripcion":"Esto es una descripcion"
-    },
-    {
-      "Producto" : "Romero",
-      "Precios" : "24",
-      "Descripcion":"Esto es una descripcion"
-    }    
+      "cosmetica":[
+        {
+          "Producto" : "Desodorante natural de Limon",
+          "Precios" : "24",
+          "Descripcion":"Esto es una descripcion 5"
+        },
+        {
+          "Producto" : "Desodorante natural de Romero",
+          "Precios" : "24",
+          "Descripcion":"Esto es una descripcion 6"
+        },
+          {
+          "Producto" : "Desodorante natural de Naranja",
+          "Precios" : "24",
+          "Descripcion":"Esto es una descripcion 7"
+        },
+        {
+          "Producto" : "Crema corporal a base de Romero",
+          "Precios" : "",
+          "Descripcion":"Esto es una descripcion 8"
+        },        
+      ]
+    },    
+
+
   ]
 }
