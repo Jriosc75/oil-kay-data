@@ -21,7 +21,7 @@
           "Producto" : "Romero",
           "Precios" : "24",
           "Descripcion":"Esto es una descripcion 4"
-        },        
+        }      
       ]
     },
     {
@@ -45,10 +45,8 @@
           "Producto" : "Crema corporal a base de Romero",
           "Precios" : "",
           "Descripcion":"Esto es una descripcion 8"
-        },        
+        }        
       ]
-    },    
-
-
+    }    
   ]
 }
