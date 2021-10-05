@@ -1,6 +1,6 @@
 {  
-  productos:{
-    aceite:[
+  "productos":{
+    "aceite":[
          {
             "Producto" : "Romero",
             "Precios" : "24",
@@ -22,7 +22,7 @@
             "Descripcion":"Esto es una descripcion 4"
           }     
     ],
-    aceite:[
+    "aceite":[
          {
             "Producto" : "Desodorante natural de Limon",
             "Precios" : "24",
