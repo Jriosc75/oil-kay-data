@@ -1,19 +1,23 @@
 {
-  "posts": [
+  "aceites": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": 11,
+      "title": "Romero"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": 22,
+      "title": "Limon"
     },
     {
-      "id": 3,
-      "title": "Post 3"
-    }
+      "id": 33,
+      "title": "Menta"
+    },
+    {
+      "id": 44,
+      "title": "Lavanda"
+    }    
   ],
-  "comments": [
+  "cosmetics": [
     {
       "id": 1,
       "body": "some comment",
