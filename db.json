@@ -1,55 +1,29 @@
 {
-  "aceites": [
+  "posts": [
     {
-      "id": 123,
-      "title": "Romero",
-      "price": 34,
-      "descripcion":"Esto es una descripcion"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "id": 124,
-      "title": "Limon",
-      "price": 30,
-      "descripcion":"Esto es una descripcion"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "id": 125,
-      "title": "Menta",
-      "price": 34,
-      "descripcion":"Esto es una descripcion"
+      "id": 3,
+      "title": "Post 3"
     }
-    {
-      "id": 126,
-      "title": "Lavanda",
-      "price": 38,
-      "descripcion":"Esto es una descripcion"
-    }    
   ],
-  "cosmetics": [
+  "comments": [
     {
-      "id": 132,
-      "title": "Desodorante natural de Romero",
-      "price": 25,
-      "descripcion":"Esto es una descripcion 1"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     },
     {
-      "id": 133,
-      "title": "Desodorante natural de Limon",
-      "price": 25,
-      "descripcion":"Esto es una descripcion 2"
-    },
-    {
-      "id": 134,
-      "title": "Crema corporal de Menta",
-      "price": 25,
-      "descripcion":"Esto es una descripcion 3"
-    },
-     {
-      "id": 135,
-      "title": "Crema corporal de Romero",
-      "price": 25,
-      "descripcion":"Esto es una descripcion 4"
-    }   
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
