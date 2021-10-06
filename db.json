@@ -8,19 +8,19 @@
     },
     {
       "id": 112,
-      "title": "Limon"
+      "title": "Limon",
       "price": 30,
       "descripcion":"Esto es una descripcion Limon"    
     },
     {
       "id": 113,
-      "title": "Menta"
+      "title": "Menta",
       "price": 35,
       "descripcion":"Esto es una descripcion Menta"     
     },
     {
       "id": 114,
-      "title": "Lavanda"
+      "title": "Lavanda",
       "price": 40,
       "descripcion":"Esto es una descripcion de Lavanda"      
     }    
