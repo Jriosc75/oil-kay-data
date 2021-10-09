@@ -23,6 +23,12 @@
       "title": "Lavanda",
       "price": 40,
       "descripcion":"Esto es una descripcion de Lavanda"      
+    },
+     {
+      "id": 115,
+      "title": "Otro",
+      "price": 40,
+      "descripcion":"Esto es una descripcion de Otro"      
     }    
   ],
   "cosmetics": [
@@ -49,7 +55,13 @@
       "title": "Crema Corporal de Menta",
       "price": 21,
       "description": "Esto es una descripcion de Crema Corporal de Menta"
-    }    
+    },
+    {
+      "id": 135,
+      "title": "Crema Corporal de Otro",
+      "price": 21,
+      "description": "Esto es una descripcion de Crema Corporal de Otro"
+    }       
   ],
   "profile": {
     "name": "typicode"
