@@ -2,28 +2,28 @@
   "aceites": [
     {
       "id": 111,
-      "title": "Romero",
+      "title": "Aceite Esencial de Romero",
       "price": 35,
       "descripcion":"Esto es una descripcion Romero"
     },
     {
       "id": 112,
-      "title": "Limon",
+      "title": "Aceite Esencial de Limon",
       "price": 30,
       "descripcion":"Esto es una descripcion Limon"    
     },
     {
       "id": 113,
-      "title": "Menta",
+      "title": "Aceite Esencial de Menta",
       "price": 35,
       "descripcion":"Esto es una descripcion Menta"     
     },
     {
       "id": 114,
-      "title": "Lavanda",
+      "title": "Aceite Esencial de Lavanda",
       "price": 40,
       "descripcion":"Esto es una descripcion de Lavanda"      
-    },  
+    }
   ],
   "cosmetics": [
     {
